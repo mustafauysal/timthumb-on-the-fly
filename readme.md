@@ -11,10 +11,11 @@ Image resizing with old school technique.
 
 
 ## Usage 
-For example you install for `assets.example.com` now ready to go resizing: 
+For example you installed for `assets.example.com` now ready to go resizing: 
 `http://assets.example.com/uploads/sample.jpg?w=400&h=200`
 
 [Parameters](https://www.binarymoon.co.uk/2012/02/complete-timthumb-parameters-guide/)
+
 [Original documentation](http://binarymoon.co.uk/projects/timthumb)
 
 ## FYI
