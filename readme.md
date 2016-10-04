@@ -20,5 +20,5 @@ For example you installed for `assets.example.com` now ready to go resizing:
 
 ## FYI
 
-I know timthumb have [abandoned](https://www.binarymoon.co.uk/2014/09/timthumb-end-life/) but it just works :)
+You should know timthumb have [abandoned](https://www.binarymoon.co.uk/2014/09/timthumb-end-life/) but it just works :) If you have concern, you can try other alternatives.
 
