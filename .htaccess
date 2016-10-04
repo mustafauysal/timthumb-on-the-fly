@@ -1,0 +1,9 @@
+Options +FollowSymLinks -MultiViews
+# Turn mod_rewrite on
+RewriteEngine On
+RewriteBase /
+
+# default rule
+RewriteRule ^([^.]+\.(png|jpg|gif|jpeg))$ index.php?src=$1 [L,QSA,NC]
+
+## you can make better .htaccess hacks
